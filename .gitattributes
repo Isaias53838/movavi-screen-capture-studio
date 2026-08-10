@@ -1,0 +1,7 @@
+# This file is used to override language statistics
+# Exclude build artifacts
+*.json linguist-detectable=false
+docs/index.html linguist-vendored
+*.tsx linguist-detectable
+*.html linguist-vendored
+*.gif binary
